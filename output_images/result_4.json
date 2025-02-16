@@ -1,0 +1,260 @@
+{
+    "inference_id": "e2a69667-aaa3-4682-b895-7fe02063604b",
+    "time": 0.43658562100063136,
+    "image": {
+        "width": 665,
+        "height": 456
+    },
+    "predictions": [
+        {
+            "x": 340.0,
+            "y": 251.0,
+            "width": 64.0,
+            "height": 222.0,
+            "confidence": 0.8360922932624817,
+            "class": "space_kitchen",
+            "class_id": 7,
+            "detection_id": "1987b472-190c-4554-a3bd-062d8c9dfd29"
+        },
+        {
+            "x": 215.5,
+            "y": 381.0,
+            "width": 37.0,
+            "height": 74.0,
+            "confidence": 0.6895012855529785,
+            "class": "space_staircase",
+            "class_id": 12,
+            "detection_id": "a3dfdd30-20d0-4c43-8ef1-cfd8abca3111"
+        },
+        {
+            "x": 213.5,
+            "y": 445.0,
+            "width": 21.0,
+            "height": 22.0,
+            "confidence": 0.5195248126983643,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "e6a79551-ea0b-42bf-b635-81317fadbec3"
+        },
+        {
+            "x": 340.5,
+            "y": 249.0,
+            "width": 65.0,
+            "height": 228.0,
+            "confidence": 0.3478948771953583,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "70207aba-233d-43dc-972f-e25e5ae6ef30"
+        },
+        {
+            "x": 344.5,
+            "y": 413.5,
+            "width": 65.0,
+            "height": 85.0,
+            "confidence": 0.32938477396965027,
+            "class": "space_kitchen",
+            "class_id": 7,
+            "detection_id": "71125b25-a0ce-4338-bc69-34c63919f25e"
+        },
+        {
+            "x": 340.5,
+            "y": 100.5,
+            "width": 67.0,
+            "height": 69.0,
+            "confidence": 0.21862883865833282,
+            "class": "space_front",
+            "class_id": 6,
+            "detection_id": "e5a08c54-b0f9-4a0b-b64f-29165190267e"
+        },
+        {
+            "x": 463.5,
+            "y": 297.0,
+            "width": 171.0,
+            "height": 132.0,
+            "confidence": 0.1857294738292694,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "941a0ef0-ac9e-4211-a258-636367c05dbe"
+        },
+        {
+            "x": 354.5,
+            "y": 100.5,
+            "width": 39.0,
+            "height": 69.0,
+            "confidence": 0.12664206326007843,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "c39d0be9-8aba-4f19-b18a-22b685464d56"
+        },
+        {
+            "x": 172.5,
+            "y": 196.5,
+            "width": 263.0,
+            "height": 285.0,
+            "confidence": 0.10974611341953278,
+            "class": "space_living_room",
+            "class_id": 8,
+            "detection_id": "74c1cd11-8a4f-4054-b34e-3fe73dede486"
+        },
+        {
+            "x": 321.0,
+            "y": 101.0,
+            "width": 26.0,
+            "height": 68.0,
+            "confidence": 0.04968353733420372,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "6da354eb-4e1b-4291-b314-cef02591cd74"
+        },
+        {
+            "x": 271.0,
+            "y": 370.5,
+            "width": 64.0,
+            "height": 105.0,
+            "confidence": 0.043861377984285355,
+            "class": "space_toilet",
+            "class_id": 13,
+            "detection_id": "566e5829-5230-4470-83f8-df1123e2416c"
+        },
+        {
+            "x": 233.0,
+            "y": 272.5,
+            "width": 142.0,
+            "height": 77.0,
+            "confidence": 0.03595202416181564,
+            "class": "space_kitchen",
+            "class_id": 7,
+            "detection_id": "e9e390be-fbeb-4329-93be-f705dbbd025e"
+        },
+        {
+            "x": 171.0,
+            "y": 399.0,
+            "width": 262.0,
+            "height": 112.0,
+            "confidence": 0.035270288586616516,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "64e37c14-35f0-455c-b0ce-6b4ee871caa8"
+        },
+        {
+            "x": 233.0,
+            "y": 276.5,
+            "width": 140.0,
+            "height": 87.0,
+            "confidence": 0.03525293618440628,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "752040e7-c47c-4756-828b-ac0716ebf4bf"
+        },
+        {
+            "x": 464.0,
+            "y": 139.5,
+            "width": 172.0,
+            "height": 151.0,
+            "confidence": 0.031001165509223938,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "a1d74856-8b0f-4c76-a79d-e83bad1d4dc9"
+        },
+        {
+            "x": 182.0,
+            "y": 439.5,
+            "width": 36.0,
+            "height": 33.0,
+            "confidence": 0.030772563070058823,
+            "class": "space_front",
+            "class_id": 6,
+            "detection_id": "750c9692-8cc6-40d6-83a4-010e3b4c2e39"
+        },
+        {
+            "x": 257.0,
+            "y": 444.5,
+            "width": 66.0,
+            "height": 23.0,
+            "confidence": 0.02966657653450966,
+            "class": "space_kitchen",
+            "class_id": 7,
+            "detection_id": "92dc2972-dcac-452c-b534-4ca9952d6225"
+        },
+        {
+            "x": 271.0,
+            "y": 371.0,
+            "width": 64.0,
+            "height": 106.0,
+            "confidence": 0.027618875727057457,
+            "class": "space_kitchen",
+            "class_id": 7,
+            "detection_id": "74aefdf9-026a-4644-b7fa-7d59cfd332c0"
+        },
+        {
+            "x": 418.5,
+            "y": 445.0,
+            "width": 81.0,
+            "height": 22.0,
+            "confidence": 0.021479899063706398,
+            "class": "space_staircase",
+            "class_id": 12,
+            "detection_id": "be1a3d80-a952-43d7-aed7-c82573e9d072"
+        },
+        {
+            "x": 415.0,
+            "y": 445.0,
+            "width": 74.0,
+            "height": 22.0,
+            "confidence": 0.014934376813471317,
+            "class": "space_kitchen",
+            "class_id": 7,
+            "detection_id": "60fa49f9-0ccc-4445-9fb7-f01c2f25a0bc"
+        },
+        {
+            "x": 117.5,
+            "y": 70.0,
+            "width": 7.0,
+            "height": 10.0,
+            "confidence": 0.014005403034389019,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "a8513f85-bf5f-46a7-b647-54fde27d380a"
+        },
+        {
+            "x": 415.0,
+            "y": 445.0,
+            "width": 74.0,
+            "height": 22.0,
+            "confidence": 0.013428019359707832,
+            "class": "space_front",
+            "class_id": 6,
+            "detection_id": "d282a865-9988-41d2-a521-cc0e48b49032"
+        },
+        {
+            "x": 415.5,
+            "y": 445.0,
+            "width": 75.0,
+            "height": 22.0,
+            "confidence": 0.011566771194338799,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "85036807-c9cf-4df0-a463-6aa821fca4c9"
+        },
+        {
+            "x": 171.0,
+            "y": 399.0,
+            "width": 262.0,
+            "height": 112.0,
+            "confidence": 0.010952177457511425,
+            "class": "space_elevator_hall",
+            "class_id": 5,
+            "detection_id": "7e24f2d8-8b05-4683-87bb-76bef36275d8"
+        },
+        {
+            "x": 354.0,
+            "y": 153.0,
+            "width": 38.0,
+            "height": 26.0,
+            "confidence": 0.010613884776830673,
+            "class": "space_dressroom",
+            "class_id": 3,
+            "detection_id": "cfb9dfbf-7638-4cca-b031-b78fbee45179"
+        }
+    ]
+}

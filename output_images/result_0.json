@@ -1,0 +1,140 @@
+{
+    "inference_id": "a76b025f-9488-4d2d-a7f0-5e18d5fbd4f0",
+    "time": 0.45616084199991747,
+    "image": {
+        "width": 1024,
+        "height": 1024
+    },
+    "predictions": [
+        {
+            "x": 556.5,
+            "y": 499.5,
+            "width": 709.0,
+            "height": 587.0,
+            "confidence": 0.9694350957870483,
+            "class": "background",
+            "class_id": 0,
+            "detection_id": "94ca6ec3-c768-4396-8fcb-a03ca218af4c"
+        },
+        {
+            "x": 397.0,
+            "y": 554.5,
+            "width": 90.0,
+            "height": 93.0,
+            "confidence": 0.9637928009033203,
+            "class": "space_toilet",
+            "class_id": 13,
+            "detection_id": "6aa4de46-2cb8-467e-9677-e2612e9006a7"
+        },
+        {
+            "x": 667.5,
+            "y": 526.5,
+            "width": 163.0,
+            "height": 149.0,
+            "confidence": 0.9272986054420471,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "13389c96-5b70-47c4-b84e-1233745f486a"
+        },
+        {
+            "x": 271.5,
+            "y": 555.0,
+            "width": 139.0,
+            "height": 94.0,
+            "confidence": 0.7560296058654785,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "c462bd5d-13db-488f-80a9-099d6421d400"
+        },
+        {
+            "x": 321.5,
+            "y": 702.0,
+            "width": 241.0,
+            "height": 192.0,
+            "confidence": 0.6827455759048462,
+            "class": "space_bedroom",
+            "class_id": 2,
+            "detection_id": "93ceb559-c4a1-411d-bdeb-539335a9da0d"
+        },
+        {
+            "x": 836.0,
+            "y": 500.5,
+            "width": 152.0,
+            "height": 97.0,
+            "confidence": 0.2913421094417572,
+            "class": "space_toilet",
+            "class_id": 13,
+            "detection_id": "80d3dd59-c508-4ba6-9b12-63eba4754b8f"
+        },
+        {
+            "x": 512.5,
+            "y": 751.0,
+            "width": 119.0,
+            "height": 62.0,
+            "confidence": 0.27995765209198,
+            "class": "space_balconi",
+            "class_id": 1,
+            "detection_id": "8296bb57-3d8e-4fbf-b72e-ee81fa25ad07"
+        },
+        {
+            "x": 321.5,
+            "y": 703.5,
+            "width": 239.0,
+            "height": 195.0,
+            "confidence": 0.25847768783569336,
+            "class": "space_balconi",
+            "class_id": 1,
+            "detection_id": "7e34bbf6-5f9c-4528-a2f6-c87a053cbfab"
+        },
+        {
+            "x": 769.5,
+            "y": 698.5,
+            "width": 285.0,
+            "height": 183.0,
+            "confidence": 0.08589604496955872,
+            "class": "space_balconi",
+            "class_id": 1,
+            "detection_id": "38dfba54-ba2d-4e8f-8220-d0afc87086c0"
+        },
+        {
+            "x": 512.5,
+            "y": 751.0,
+            "width": 119.0,
+            "height": 62.0,
+            "confidence": 0.030855540186166763,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "cfa94000-3c8d-4e51-a77e-4f2bcb3f5cf6"
+        },
+        {
+            "x": 769.5,
+            "y": 700.0,
+            "width": 285.0,
+            "height": 186.0,
+            "confidence": 0.027866503223776817,
+            "class": "space_bedroom",
+            "class_id": 2,
+            "detection_id": "46b19847-3313-42a8-be5a-2d4d67ea586f"
+        },
+        {
+            "x": 494.5,
+            "y": 910.0,
+            "width": 135.0,
+            "height": 218.0,
+            "confidence": 0.025895679369568825,
+            "class": "background",
+            "class_id": 0,
+            "detection_id": "ed4a1989-bc99-482d-826b-84d2eea7fad3"
+        },
+        {
+            "x": 481.0,
+            "y": 419.0,
+            "width": 568.0,
+            "height": 432.0,
+            "confidence": 0.019132213667035103,
+            "class": "space_other",
+            "class_id": 10,
+            "detection_id": "ac0b7b12-09e3-4c67-9b70-05bb563d1220"
+        }
+    ]
+}
